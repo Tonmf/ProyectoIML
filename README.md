@@ -4,7 +4,7 @@ Se estudian 5 casos:
 
 1.  Se predice el precio de las casas en Iowa.
 
-1b. Se predice cuánto cuesta calentar y enfriar las casas en Iowa.
+2.  Se predice cuánto cuesta calentar y enfriar las casas en Iowa.
   
 3.  Se predice quién va a dejar y porqué una empresa de telecomunicaciones.
   
