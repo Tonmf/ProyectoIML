@@ -1,7 +1,6 @@
 # ProyectoIML
 En este repositorio se pueden encontrar 5 casos de Machine Learning realizados para el proyecto final de IML del CIM-UPC.
-
-Se esutidan 5 casos:
+Se estudian 5 casos:
 
   1.  Se predice el precio de las casas en Iowa.
   
